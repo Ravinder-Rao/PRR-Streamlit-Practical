@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Welcome App", page_icon=":wave:")
 
-st.title("Welcome")
+st.title("Welcome to Anurag University!")
 st.write("A simple welcome Streamlit application.")
 
 st.sidebar.header("About")
